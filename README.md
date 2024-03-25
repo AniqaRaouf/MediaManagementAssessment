@@ -1,4 +1,4 @@
-Hello This is Aniqa Raouf's front-end Assessment repo.
+<img width="1204" alt="image" src="https://github.com/AniqaRaouf/MediaManagementAssessment/assets/77120969/59837d87-0a3b-4f00-929f-ac15c0f38afa">Hello This is Aniqa Raouf's front-end Assessment repo.
 
 if you get any questions Please ask at "sheikhaniqa143@gmail.com"
 
@@ -84,4 +84,8 @@ If everything is set up _correctly_, you should see your new app running in your
 ## Congratulations! :tada:
 
 You've successfully run my assessment project.
+
+<img width="1204" alt="image" src="https://github.com/AniqaRaouf/MediaManagementAssessment/assets/77120969/4a32225b-4781-4fd7-b2cc-7f4ece7f8697">
+
+
 
