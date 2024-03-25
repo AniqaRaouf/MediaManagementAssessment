@@ -1,6 +1,8 @@
 <img width="1204" alt="image" src="https://github.com/AniqaRaouf/MediaManagementAssessment/assets/77120969/59837d87-0a3b-4f00-929f-ac15c0f38afa">Hello This is Aniqa Raouf's front-end Assessment repo.
 
 if you get any questions Please ask at "sheikhaniqa143@gmail.com"
+*********
+check it out at https://vercel.com/aniqaraoufs-projects/media-management-assessment
 
 ******************************************************
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
