@@ -1,7 +1,16 @@
 Hello This is Aniqa Raouf's front-end Assessment repo.
 
+if you get any questions Please ask at "sheikhaniqa143@gmail.com"
+
 ******************************************************
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+
+###### Before we start I am listing down the versions i used.
+
+*** Node js :v20.10.0
+*** Xcode : 15.1
+*** Android Studio :hedgehog 2023.1.1 patch 1
+*** React native :0.73.6
 
 # Getting Started
 
@@ -23,9 +32,12 @@ After this run this
 
 ```bash
 cd ios
-pod install
+
 ```
 
+```bash
+pod install
+```
 ## Step 3: Start the metro bundler, by running following command into the root directory of your project.
 
 ```bash
